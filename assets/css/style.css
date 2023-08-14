@@ -1,6 +1,4 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:wght@300&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
-
 
 * {
     padding: 0;
@@ -13,36 +11,33 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* Generic project styles */
     color: #3a3a3a;
     font-family: Poppins, sans-serif;
 }
 
-
 /* Header */
 header {
-        background-color: #ffffff;
-        padding: 0 1rem;
-        position: fixed;
-        z-index: 99;
-        width: 100%;
-        box-shadow: 0 2px 2px #3a3a3a;
-        display:flex;
-        justify-content:space-between;
-        align-items: baseline;
-        
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
-header a{
+header a {
     text-decoration: none;
     color: inherit;
 }
 
 h1 {
-        font-family: 'Poppins', sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        color: #252525;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
 }
 
 #menu {
@@ -51,7 +46,7 @@ h1 {
     list-style-type: none;
 }
 
-#menu>li {
+#menu > li {
     margin-bottom: 1em;
 }
 
@@ -72,13 +67,12 @@ nav {
 }
 
 /* Nav toggle */
-#nav-toggle:checked~nav {
+#nav-toggle:checked ~ nav {
     display: block;
 }
 
 #nav-toggle {
     display: none;
-
 }
 
 .nav-toggle-label {
@@ -87,13 +81,19 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
+    
     flex: 1 0 auto;
     margin-top: 47px;
     overflow: auto;
-    /* Add this property to handle content overflow */
+    
 }
 
+#hero{
+    height:600px;
+    width: 100%;
+    background: url("../images/hero.webp") no-repeat center center/cover;
+
+}
 /* Footer */
 footer {
     background-color: orange;
@@ -111,29 +111,27 @@ footer {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
+}
 
-@media screen and (min-width:768px) {
-   main {
-    margin-top: 47px;
+@media screen and (min-width: 768px) {
+    main {
+        margin-top: 47px;
         overflow: auto;
-   }
-   
-    nav{
-        display:block;
+    }
+    nav {
+        display: block;
         position: relative;
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
-        
     }
-    #menu{
+    #menu {
         display: flex;
-
     }
     #menu > li {
         padding-left: 1rem;
     }
-    .nav-toggle-label{
+    .nav-toggle-label {
         display: none;
     }
     #logo {
@@ -141,19 +139,17 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-    
-   
 }
+
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
-   #main {
-    margin-top: 75px
-   }
-   main {
-    margin-top: 47px;
+    #main {
+        margin-top: 75px;
+    }
+    main {
+        margin-top: 47px;
         overflow: auto;
-   }
-   
+    }
 }
