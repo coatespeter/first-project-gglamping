@@ -209,8 +209,8 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-
-
+    
+    
 
 }
 
@@ -227,5 +227,12 @@ footer {
         margin-top: 47px;
         overflow: auto;
     }
+        
 
+}
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        /* Stack divs vertically on smaller screens */
+    }
 }
