@@ -155,7 +155,14 @@ main {
     border: none;
 
 }
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
 
+#photos {
+    line-height: 0;
+}
 
 
 /* Footer */
@@ -177,7 +184,13 @@ footer {
     color: #3a3a3a;
 
 }
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
 
+    }
+}
 @media screen and (min-width: 768px) {
     main {
         margin-top: 47px;
@@ -209,8 +222,10 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-    
-    
+         #photos {
+             column-count: 3;
+         }
+         }
 
 }
 
@@ -228,8 +243,12 @@ footer {
         overflow: auto;
     }
         
-
+        #photos {
+            column-count: 4;
+        }
 }
+
+
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
