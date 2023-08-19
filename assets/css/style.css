@@ -150,6 +150,7 @@ main {
     /* Center vertically */
     height: 100%;
     /* Set container height to viewport height */
+    border-bottom: 20px;
 }
 
 .side-by-side {
