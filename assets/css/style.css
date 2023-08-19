@@ -157,6 +157,7 @@ main {
     border: none;
 
 }
+
 #photos img {
     width: 100%;
     line-height: 1em;
@@ -165,16 +166,17 @@ main {
 #photos {
     line-height: 0;
 }
+
 #form {
     display: grid;
     align-items: center;
     justify-content: center;
     margin: 50px;
     flex-direction: column;
-    text-size-adjust: 200%;
-    margin-top: 350px;
-    border-radius: 8px;
-   
+    text-size-adjust: 340%;
+    margin-top: 200px;
+    width: 75%;
+    margin-left: 250px;
     
 }
 
@@ -197,6 +199,7 @@ footer {
     color: #3a3a3a;
 
 }
+
 @media screen and (min-width: 576px) {
     #photos {
         column-count: 2;
@@ -204,6 +207,7 @@ footer {
 
     }
 }
+
 @media screen and (min-width: 768px) {
     main {
         margin-top: 47px;
@@ -235,12 +239,13 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-     #photos {
-             column-count: 3;
-         }
-       
- }
-    
+
+    #photos {
+        column-count: 3;
+    }
+
+}
+
 
 
 
@@ -252,16 +257,16 @@ footer {
     #main {
         margin-top: 75px;
     }
-    
+
 
     main {
         margin-top: 47px;
         overflow: auto;
     }
-        
-        #photos {
-            column-count: 4;
-        }
+
+    #photos {
+        column-count: 4;
+    }
 }
 
 
@@ -271,5 +276,3 @@ footer {
         /* Stack divs vertically on smaller screens */
     }
 }
-
-    
