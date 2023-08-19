@@ -222,12 +222,14 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-         #photos {
+     #photos {
              column-count: 3;
          }
-         }
+       
+ }
+    
 
-}
+
 
 @media screen and (mix-width: 992px) {
     #menu a:hover {
@@ -237,6 +239,7 @@ footer {
     #main {
         margin-top: 75px;
     }
+    
 
     main {
         margin-top: 47px;
