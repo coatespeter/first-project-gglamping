@@ -110,6 +110,7 @@ main {
     box-sizing: border-box;
     font-size: 22px;
     font-weight: bold;
+    text-align: justify;
 
 }
 
