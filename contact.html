@@ -19,7 +19,7 @@
 
 </head>
 
-<body>
+<body id="contactbody">
     <!--Header-->
     <header>
         <a href="index.html">
@@ -37,7 +37,25 @@
         </nav>
     </header>
     <!--Main-->
-    <main></main>
+    <main>
+        <div class="contactcontainer">
+            <form id="form" action="https://formdump.codeinstitute.net/" method="POST">
+                <label for="first-name">First Name:</label>
+                <input type="text" id="first-name" name="first-name" required>
+        
+                <label for="last-name">Last Name:</label>
+                <input type="text" id="last-name" name="last-name" required>
+        
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required>
+        
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+        
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </main>
     
     <!--Footer-->
     <footer>

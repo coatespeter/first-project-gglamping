@@ -165,7 +165,18 @@ main {
 #photos {
     line-height: 0;
 }
-
+#form {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    flex-direction: column;
+    text-size-adjust: 200%;
+    margin-top: 350px;
+    border-radius: 8px;
+   
+    
+}
 
 /* Footer */
 footer {
