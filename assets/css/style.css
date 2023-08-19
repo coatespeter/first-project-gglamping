@@ -151,6 +151,7 @@ main {
     height: 100%;
     /* Set container height to viewport height */
     border-bottom: 20px;
+    padding-bottom: 26px;
 }
 
 .side-by-side {
