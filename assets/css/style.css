@@ -305,7 +305,7 @@ footer {
             justify-content: center;
             /*margin: 50px;*/
             flex-direction: column;
-            text-size-adjust: 340%;
+            text-size-adjust: 240%;
             margin-top: 200px;
             width: 75%;
             margin-left: 25px;
@@ -324,7 +324,7 @@ footer {
             text-size-adjust: 340%;
             margin-top: 200px;
             width: 75%;
-            margin-left: 50px;
+            margin-left: 25px;
             border-radius: 15px 50px;
             align-content: center;
     
