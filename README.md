@@ -25,7 +25,6 @@ This is a static website for an eco-friendly Glamping resort in the Spanish moun
  - Deployment and Local Deployment
 	 - Development
 	 - Local Development
-		 - How to fork
 		 - How to clone
 		
 - Testing
@@ -71,10 +70,13 @@ The colour scheme I used is designed to represent nature, the teal and aqua crea
 
 
 ![Image of the font chosen for the site](https://i.ibb.co/yB7QX43/Typography.png)
-I chose to go with the Google font "Poppins". This, in my opinion, was a nice, clean and readable font which was chosen so as not to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
+I chose to go with the Google font "Poppins". This, in my opinion, was a nice, clean and readable font that was chosen so as not to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
 
 **Wireframes**
 
+![phone wireframe](https://i.ibb.co/y033QDG/Untitled-Artwork-15.jpg)
+![ipad wireframe 1](https://i.ibb.co/jZNNxR3/Untitled-Artwork-17.jpg)
+![ipad wireframe 2](https://i.ibb.co/LPktjZ9/Untitled-Artwork-16.jpg)
 
 
 ## **Features**
@@ -136,19 +138,19 @@ I have done my best to use aria labels for screen readers as well as backup font
 
 **GitHub**
 
-I used this each day for version control and backing up my progress. I also used pages in Github to deploy my site early so as to keep on top of testing. 
+- I used this each day for version control and backing up my progress. I also used pages in Github to deploy my site early so as to keep on top of testing. 
 
 **Codeanywhere IDE**
 
-I used a mix of Code Anywhere and the VSCode app on my computer depending on where I was working from. With good use of GitHub, I found it quite easy to switch between the two. 
+- I used a mix of Code Anywhere and the VSCode app on my computer depending on where I was working from. With good use of GitHub, I found it quite easy to switch between the two. 
 
 **Python** 
 
-Python was used when opening a port 8000 preview when coding in Codeanywhere.
+- Python was used when opening a port 8000 preview when coding in Codeanywhere.
 
 **HTML5** 
 
-This is the basis for the structure of my website
+- This is the basis for the structure of my website
 
 **CSS** 
 
@@ -182,12 +184,12 @@ This is the basis for the structure of my website
 
 HTML5, CSS
 
-**Libraries and programmes used:**
+**Libraries and programmes used**
 
 GitHub was used most for version control and backing up all aspects of the project. 
 The VSCode app was used for a lot of the coding. 
 
-**Deployment:**
+**Deployment**
 
 The site was deployed early on GitHub pages. 
 
@@ -206,12 +208,12 @@ The site was deployed early on GitHub pages.
 
 ## Manual Testing
 
-**CSS Validator:**
+**CSS Validator**
 
 
 ![Screenshow of Css validator showing no errors](https://i.ibb.co/Hqddw0J/Screenshot-2023-08-23-at-14-43-48.png)
 
-**W3C Validator:**
+**W3C Validator**
 
 Upon using the HTML, I did encounter one problem with a duplicate class. I found the problem and fixed the issue. 
 
