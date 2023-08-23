@@ -43,13 +43,13 @@ Welcome to our idyllic destination perfectly suited for a unique blend of visito
 
 As a static website the user goals will be the same each time, those goals are as follows;
 
-**Accommodation**
+**Accomodation**
 
 We would like for potential visitors to the eco-resort to be able to get a feel for the types of accommodation and services available. As an eco-glamping resort, we would like for people to know that what they will experience is not necessarily what one can expect in a normal resort. 
 
 **Communication**
 
-We would like for it to be as easy for a user to contact us as possible. We have made sure to include a  visible contact tab on the header which links to a very readable and accessible contact form that is responsive on Phones, Tablets, Laptops and Desktop computers. 
+We would like for it to be as easy for a user to contact us as possible. We have made sure to include a  visible contact tab on the header which links to a readable and accessible contact form which is responsive on Phones, Tablets Laptops and Desktop computers. 
 
 **User Friendliness** 
 
@@ -59,22 +59,19 @@ I have used appropriate media queries to ensure that the layout of each page rep
 
 **Colour Scheme**
 
-The colour scheme I used is designed to represent nature, the teal and aqua create a calming background with the orange giving the website some warmth and comfort. This has been echoed in the gallery images.
+The colour scheme I used is designed to represent nature, the teal and aqua create a calming background with the orange giving the website some warmth and comfort. This has been echoed in the gallery images
 
 ![colour palette used](https://i.ibb.co/NY0X9G3/colours.jpg)
 
-**Typography**
+**Typeography**
 
 
 ![Image of the font chosen for the site](https://i.ibb.co/yB7QX43/Typography.png)
-I chose to go with the Google font "Poppins". This, in my opinion, was a nice, clean and readable font that was chosen so as not to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
+I chose to go with the Google font "Poppins". This, in my opinion, was a nice, clean and readable font which was chosen so as not to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
 
 **Wireframes**
 
 
-![Wireframe on tablet](https://i.ibb.co/BTMnMjT/Untitled-Artwork-5.jpg)
-![enter image description here](https://i.ibb.co/8XTm7LD/Untitled-Artwork-4.jpg)
-![Laptop view ](https://i.ibb.co/zffty92/Untitled-Artwork-6.jpg)
 
 ## **Features**
 
@@ -103,7 +100,7 @@ I have added a styled footer at the bottom with external opening links to Facebo
 
 **Landing page**
 
-On the landing page, it has specifically been divided into three sections. The opening Hero image is designed to set the tone of the relaxed nature of the resort and also the website. As you scroll down we have mixed information with pictures of the facilities in order to hold a reader's attention. The third section is there to make it as easy to find us as possible, with a large visually appealing and interactive Google Map and the footer that would take a user to any of our social media pages. 
+On the landing page, it has specifically been divided into three sections. The opening Hero image is designed to set the tone of the relaxed nature of the resort and also the website. As you scroll down we have mixed information with pictures of the facilities in order to hopefully hold a reader's attention. The third section is there to make it as easy to find us as possible, with a large visually appealing and interactive Google Map and the footer that would take a user to any of our social media pages. 
 
 ![Middke sectuib screenshott](https://i.ibb.co/QrZ8v6R/Screenshot-2023-08-23-at-13-42-25.png)
 ![enter image description here](https://i.ibb.co/WnJm5Vh/Screenshot-2023-08-23-at-13-42-40.png)
@@ -113,9 +110,8 @@ On the landing page, it has specifically been divided into three sections. The o
 
 The Gallery page has been made to look clean and appealing. It gives a good feeling of the type of accommodations and generally the good vibes of the resort. It is responsive and goes from having 4 columns on a large screen down to having single images in a row on mobile devices. 
 
-
+![larger screen gallery](https://i.ibb.co/12F8CCG/image.png)
 ![Gallerly on tablet size screen](https://i.ibb.co/4tzmkH2/Screenshot-2023-08-23-at-13-55-01.png)
-![Phone gallery](https://i.ibb.co/xCzrqy2/Screenshot-2023-08-23-at-13-54-52.png)
 
 **Contact page**
 
@@ -125,47 +121,57 @@ The contact page has been kept quite simple, with a form that currently leads ba
 
 **Future Implementations**
 
-For future versions of the site, I would like to implement a direct booking system which will allow potential guests easily book without waiting on any replies. I would also like to implement an activities section in which people could pre-book various excursions/activities. 
+For future versions of the site, I would like to implement a direct booking system that will allow potential guests to easily book without waiting for any replies. I would also like to implement an activities section in which people could pre-book various excursions/activities. 
 
 **Accessibility**
 
-I have done my best to use aria labels for screen readers as well as backup fonts and alts for all images. On testing, I got a warning that it would be better to add a title to my iframe to make things more accessible so I implemented that. 
+I have done my best to use aria labels for screen readers as well as backup fonts and alts for all images. On testing, I got a warning that it would be better to add in a title to my iframe to make things more accessible so I implemented that. 
 
 ## Technologies used
 
 **GitHub**
- - I used this each day for version control and backing up my progress. I also used pages in Github to deploy my site early so as to keep on top of testing. 
 
-**Codanywhere IDE**
- - I used a mix of Code Anywhere and the VSCode app on my computer depending on where I was working from. With good use of GitHub, I found it quite easy to switch between the two. 
+I used this each day for version control and backing up my progress. I also used pages in Github to deploy my site early so as to keep on top of testing. 
+
+**Codeanywhere IDE**
+
+I used a mix of Code Anywhere and the VSCode app on my computer depending on where I was working from. With good use of GitHub I found it quite easy to switch between the two. 
 
 **Python** 
-- Python was used when opening a port 8000 preview when coding in Codeanywhere.
+
+Python was used when opening a port 8000 preview when coding in Codeanywhere.
 
 **HTML5** 
 
 This is the basis for the structure of my website
+
 **CSS** 
 
- CSS was used for all of the style elements of the website.
+- CSS was used for all of the style elements of the website.
+ 
 **Google Maps** 
 
-I embedded a Google map of the local area on my Landing page using an iFrame link from Google Maps. 
+- I embedded a Google map of the local area on my Landing page using an iFrame link from Google Maps. 
+
 **Font Awesome** 
 
-I used this for the icons on my website.	
+- I used this for the icons on my website.	
+
 **Google fonts** 
 
- I used this to import the font "Poppins" which was used on the website. 
+ - I used this to import the font "Poppins" which was used on the website. 
+ 
 **Favicon Generator**
 
- This was initially used to make a custom logo for the website but later changed to one of their stock camping images as it suited the look of the site better. 
+ - This was initially used to make a custom logo for the website but later changed to one of their stock camping images as it suited the look of the site better. 
+ 
 **TinyPNG** 
 
- I used a compression site in order to reduce the file sizes in my gallery section. Through doing this, I was able to increase the score in the performance section of the lighthouse report. 
+ - I used a compression site in order to reduce the file sizes in my gallery section. Through doing this, I was able to increase the score in the performance section of the lighthouse report. 
+ 
 **Stackedit** 
 
-I used this site to markdown the content of the Readme document. 
+- I used this site to mark down the content of the Readme document. 
 
 **Languages used**
 
@@ -202,10 +208,9 @@ The site was deployed early on GitHub pages.
 
 **W3C Validator:**
 
-Upon using the HTML, I did encounter one problem with a duplicate class. While this does not affect the page as it currently is, future versions will fix this error. I also had some green warnings which I will need to address.
+Upon using the HTML, I did encounter one problem with a duplicate class. I found the problem and fixed the issue. 
 
-![Errors to be addressed](https://i.ibb.co/tCZSm7w/Screenshot-2023-08-23-at-15-41-03.png)
-![info about code from the validator](https://i.ibb.co/c8zcDkm/Screenshot-2023-08-23-at-15-39-41.png)
+![html validator passed](https://i.ibb.co/1zdK0dp/Screenshot-2023-08-23-at-19-06-12.png)
 
 **Lighthouse**
 
@@ -220,40 +225,40 @@ I used the lighthouse extension for Google Chrome which gave me feedback as to t
 
 **Wave Testing**
 
-I used the wave extension on Google Chrome to test the site. I was able to see some errors and change them in order to make the site more accessible. 
+I used the Wave extension on Google Chrome to test the site. I was able to see some errors and change them in order to make the site more accessible. The one error that remains is in relation to an icon that I have used on smaller screens. The project which I took inspiration from "Love Running" had a similar issue. I have not as of yet come up with a fix for that error. 
 
 ![initial wave test](https://i.ibb.co/w75sHLx/Screenshot-2023-08-21-at-14-41-31.png)
 ![updated test](https://i.ibb.co/k83TMv5/Screenshot-2023-08-23-at-17-16-31.png)
-
+![error on wave](https://i.ibb.co/QD9ZdhJ/Screenshot-2023-08-23-at-19-02-33.png)
 
 **Device testing**
 
 The website was tested on the following devices:
 
-iPhone 11.
+- iPhone 11.
 
-iPhone 10.
+- iPhone 10.
 
-Samsung s22.
+- Samsung s22.
 
-iPad.
+- iPad.
 
-iPad Air.
+- iPad Air.
 
-MacBook Air.
+- MacBook Air.
 
-32' widescreen monitor. 
+- 32' widescreen monitor. 
 
-Surface Pro.
+- Surface Pro.
 
 
 **Browsers**
 
-Google Chrome.
+- Google Chrome.
 
-Safari.
+- Safari.
 
-Opera.
+- Opera.
 
 
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
@@ -271,11 +276,11 @@ Opera.
 | --- | --- | --- | --- | --- |
 | `Home Page` |
 |   |   |   |   |
-| Google map | Shows correct location and is interactive| map larger clicked| map opens in another tab | Pass |
+| Google map | Shows correct location and is interactive| view larger map button is clickable and functional| map opens in another tab | Pass |
 | --- | --- | --- | --- | --- |
 | `Contact Page` |
 |   |   |   |   |
-| Contact form | required fields and correct format needed to submit| Clicked submit while leaving form unfillled | Form will not submit | Pass |
+| Contact form | Required fields and correct format needed to submit| Clicked submit while leaving form unfilled | Form will not submit without a first and last name, a correctly formatted email address and a message | Pass |
 
 **Bugs**
 
@@ -287,7 +292,7 @@ Early in my testing, I noticed that in mobile format, the text in the paragraph 
 
 ![terrible word layout bug](https://i.ibb.co/BjmvtZS/Screenshot-2023-08-19-at-10-25-00.png)
 
-A small bug I came across involved the Google map and how it looked in relation to the footer. I believe there may have been some conflicting styles as I initially had trouble spacing it how i wanted to but in the end I was able to find the issue and insert a simple fix. 
+A small bug I came across involved Google Maps and how it looked in relation to the footer. I believe there may have been some conflicting styles as I initially had trouble spacing it how i wanted to but in the end, I was able to find the issue and insert a simple fix. 
 
 ![bug 2](https://i.ibb.co/cXpsgqB/Screenshot-2023-08-19-at-12-29-39.png)
 
@@ -303,7 +308,7 @@ I have come across a bug in the layout of the website when in phone mode. This i
 
 I used chat GPT for some testing and paragraph creation.  chat.openai.com
 
-I used YouTube for a couple of tutorials based around media queries and Flexbox. https://www.youtube.com/watch?v=yU7jJ3NbPdA&t=175s
+I used YouTube for a couple of tutorials based on media queries and Flexbox. https://www.youtube.com/watch?v=yU7jJ3NbPdA&t=175s
 
 I used stack overflow on a daily basis for code-related problems throughout. https://stackoverflow.com/
 
@@ -311,7 +316,7 @@ I was able to use free images from Unsplash. https://unsplash.com/
 
 ### Acknowledgments
 
-I would like to acknowledge my mentor, Luke, without whom I would have been lost on this, my first project. He has given me such clear direction and great feedback that I always felt I was going in the correct direction. 
+I would like to acknowledge my mentor Luke, without whom I would have been lost on this, my first project. He has given me such clear direction and great feedback that I always felt I was going in the correct direction. 
 
 I would also like to acknowledge my wife Philippa, who supported me throughout, Even when I spent most of our 10th anniversary writing code. 
 
