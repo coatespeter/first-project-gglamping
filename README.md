@@ -25,7 +25,7 @@ This is a static website for an eco-friendly Glamping resort in the Spanish moun
 	 
  - [Deployment and Local Deployment](#deployment)
 	 - [Deployment](#deployment)
-	 - [Local Development](#deployment)
+	 - [Local Deployment](#deployment)
 		 - [How to clone](#deployment)
 		
 - [Testing](#testing)
