@@ -2,38 +2,33 @@
 
 This is a static website for an eco-friendly Glamping resort in the Spanish mountains. It has been designed to be simple, appealing to the eye and easy to navigate. It has been made responsive for various screen sizes for the best user experience. 
 
-![enter image description here](https://i.ibb.co/hHL1kYt/Screenshot-2023-08-22-at-17-49-31.png)
+![responsive pic on all screens](https://i.ibb.co/hHL1kYt/Screenshot-2023-08-22-at-17-49-31.png)
 
 ## CONTENTS
 
- - User Experience
-	 - User Stories
- - Design
-	 - Colour Scheme
-	 - Typography
-	 - Imagery 
-	 - Wireframes
- - Features
-	 - General features on each page
-	 - Future Implementations
-	 - Accessibility
-	
- - Technology Used
-	 - Languages used
-	 - Frameworks, Libraries, Programmes used
-	 
- - Deployment and Local Deployment
-	 - Development
-	 - Local Development
-		 - How to clone
-		
-- Testing
-	 - Manual testing
-	 - W3C testing
-	 - Lighthouse
-	 - Wave
- - Bugs
- - Credits
+- [Guaro Glamping](#guaro-glamping)
+- [CONTENTS](#contents)
+- [Target Audience](#target-audience)
+- [User Stories](#user-stories)
+- [Design](#design)
+- [Colour Scheme](#colour-scheme)
+- [Typography](#typography)
+- [Wireframes](#wireframes)
+- [Features](#features)
+- [Features by page](#features-by-page)
+- [Future Implementations](#future-implementations)
+- [Accessibility](#accessibility)
+- [Technologies used](#technologies-used)
+- [Languages Used](#languages-used)
+- [Libraries and programmes used](#libraries-and-programmes-used)
+- [Deployment](#deployment)
+- [Local Deployment](#local-deployment)
+		- [How to Clone:](#how-to-clone)
+- [Testing](#testing)
+- [Manual Testing](#manual-testing)
+- [Bugs](#bugs)
+- [Credits](#credits)
+	- [Acknowledgments](#acknowledgments)
 
  
 
@@ -60,26 +55,27 @@ I have used appropriate media queries to ensure that the layout of each page rep
 
 ## Design
 
-**Colour Scheme**
+## Colour Scheme
 
 The colour scheme I used is designed to represent nature, the teal and aqua create a calming background with the orange giving the website some warmth and comfort. This has been echoed in the gallery images
 
 ![colour palette used](https://i.ibb.co/NY0X9G3/colours.jpg)
 
-**Typeography**
+## Typography
 
 
 ![Image of the font chosen for the site](https://i.ibb.co/yB7QX43/Typography.png)
 I chose to go with the Google font "Poppins". This, in my opinion, was a nice, clean and readable font that was chosen so as not to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
 
-**Wireframes**
+## Wireframes
 
 ![phone wireframe](https://i.ibb.co/y033QDG/Untitled-Artwork-15.jpg)
 ![ipad wireframe 1](https://i.ibb.co/jZNNxR3/Untitled-Artwork-17.jpg)
 ![ipad wireframe 2](https://i.ibb.co/LPktjZ9/Untitled-Artwork-16.jpg)
+![laptop wireframe](https://i.ibb.co/ncQSvFP/Untitled-Artwork-18.jpg)
 
 
-## **Features**
+## Features
 
 **Nav Bar**
 
@@ -126,11 +122,11 @@ The contact page has been kept quite simple, with a form that currently leads ba
 
 ![screenshot of simple contact page.](https://i.ibb.co/yWf8zcv/Screenshot-2023-08-23-at-14-05-10.png)
 
-**Future Implementations**
+## Future Implementations
 
 For future versions of the site, I would like to implement a direct booking system that will allow potential guests to easily book without waiting for any replies. I would also like to implement an activities section in which people could pre-book various excursions/activities. 
 
-**Accessibility**
+## Accessibility
 
 I have done my best to use aria labels for screen readers as well as backup fonts and alts for all images. On testing, I got a warning that it would be better to add in a title to my iframe to make things more accessible so I implemented that. 
 
@@ -180,20 +176,20 @@ I have done my best to use aria labels for screen readers as well as backup font
 
 - I used this site to mark down the content of the Readme document. 
 
-**Languages used**
+## Languages Used
 
 HTML5, CSS
 
-**Libraries and programmes used**
+## Libraries and programmes used
 
 GitHub was used most for version control and backing up all aspects of the project. 
 The VSCode app was used for a lot of the coding. 
 
-**Deployment**
+## Deployment
 
 The site was deployed early on GitHub pages. 
 
-**Local Deployment**
+## Local Deployment
 
 
 #### How to Clone:
@@ -290,7 +286,7 @@ The website was tested on the following devices:
 |   |   |   |   |
 | Contact form | Required fields and correct format needed to submit| Clicked submit while leaving form unfilled | Form will not submit without a first and last name, a correctly formatted email address and a message | Pass |
 
-**Bugs**
+## Bugs
 
 One of the earliest bugs I came across was this main content showing through. It was a very simple fix which merely involved padding and the removal of the placeholder text. 
 
@@ -312,7 +308,7 @@ I have come across a bug in the layout of the website when in phone mode. This i
 
 ![layout bug](https://i.ibb.co/YyMMJmC/Screenshot-2023-08-23-at-15-17-28.png)
 
-**Credits**
+ ## Credits
 
 I used chat GPT for some testing and paragraph creation.  chat.openai.com
 
