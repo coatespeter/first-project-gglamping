@@ -6,29 +6,36 @@ This is a static website for an eco-friendly Glamping resort in the Spanish moun
 
 ## CONTENTS
 
-- [Guaro Glamping](#guaro-glamping)
-- [CONTENTS](#contents)
-- [Target Audience](#target-audience)
-- [User Stories](#user-stories)
-- [Design](#design)
-- [Colour Scheme](#colour-scheme)
-- [Typography](#typography)
-- [Wireframes](#wireframes)
-- [Features](#features)
-- [Features by page](#features-by-page)
-- [Future Implementations](#future-implementations)
-- [Accessibility](#accessibility)
-- [Technologies used](#technologies-used)
-- [Languages Used](#languages-used)
-- [Libraries and programmes used](#libraries-and-programmes-used)
-- [Deployment](#deployment)
-- [Local Deployment](#local-deployment)
-		- [How to Clone:](#how-to-clone)
+ - [User Experience](#target-audience)
+	 - [User Stories](#user-stories)
+ 
+ - [Design](#design)
+	 - [Colour Scheme](#colour-scheme)
+	 - [Typography](#typography)
+	 - [Wireframes](#wireframes)
+ - [Features](#features)
+	 - [General features on each page](#features-by-page)
+	 - [Future Implementations](#future-implementations)
+	 - [Accessibility](#accessibility)
+	
+ - [Technology Used](#technologies-used)
+	 - [Languages used](#languages-used)
+	 - [Frameworks, Libraries, Programmes used](#libraries-and-programmes-used)
+  
+	 
+ - [Deployment and Local Deployment](#deployment)
+	 - [Deployment](#deployment)
+	 - [Local Development](#deployment)
+		 - [How to clone](#deployment)
+		
 - [Testing](#testing)
-- [Manual Testing](#manual-testing)
-- [Bugs](#bugs)
-- [Credits](#credits)
-	- [Acknowledgments](#acknowledgments)
+	 - [Manual testing](#manual-testing)
+	 - [W3C testing](#manual-testing)
+	 - [Lighthouse](#manual-testing)
+	 - [Wave](#manual-testing)
+ - [Bugs](#bugs)
+ - [Credits](#credits)
+ - [Acknowledgments](#acknowledgments)
 
  
 
