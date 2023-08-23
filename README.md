@@ -28,7 +28,11 @@ This is a static website for an eco-friendly Glamping resort in the Spanish moun
 		 - How to fork
 		 - How to clone
 		
- - Testing
+- Testing
+	 - Manual testing
+	 - W3C testing
+	 - Lighthouse
+	 - Wave
  - Bugs
  - Credits
 
