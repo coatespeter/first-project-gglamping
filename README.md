@@ -1,6 +1,6 @@
 ## Guaro Glamping
 
-This is a static website for a eco-friendly Glamping resort in the Spannish mountains. I has been designed to be simple, appealing to the eye and easy to navigate. It has been made responsive for various screen sizes for the best user experience. 
+This is a static website for an eco-friendly Glamping resort in the Spanish mountains. It has been designed to be simple, appealing to the eye and easy to navigate. It has been made responsive for various screen sizes for the best user experience. 
 
 ![enter image description here](https://i.ibb.co/hHL1kYt/Screenshot-2023-08-22-at-17-49-31.png)
 
@@ -10,17 +10,17 @@ This is a static website for a eco-friendly Glamping resort in the Spannish moun
 	 - User Stories
  - Design
 	 - Colour Scheme
-	 - Typeography
+	 - Typography
 	 - Imagery 
 	 - Wireframes
  - Features
 	 - General features on each page
 	 - Future Implementations
-	 - Accessability
+	 - Accessibility
 	
  - Technology Used
 	 - Languages used
-	 - Frameworks, Libraries, Programms used
+	 - Frameworks, Libraries, Programmes used
 	 
  - Deployment and Local Deployment
 	 - Development
@@ -37,7 +37,7 @@ This is a static website for a eco-friendly Glamping resort in the Spannish moun
 
 ## Target Audience
 
-Welcome to our idyllic destination perfectly suited for a unique blend of visitors. Our target audience includes discerning tourists who possess a deep appreciation for the tranquility of rural settings and a genuine enthusiasm for eco-friendly living. If you're the kind of traveler who seeks solace in the midst of nature's beauty and values sustainable practices, you've found your haven here. Our region's charm lies in its harmonious coexistence with the environment, providing a nurturing space for those who resonate with eco living. Moreover, our area has gained widespread recognition as a cyclist's paradise. With scenic routes that wind through picturesque landscapes, this locale has become a beloved hub for cyclists of all levels. Whether you're an eco-conscious explorer or a cycling enthusiast seeking adventure, our destination promises an unforgettable experience that seamlessly intertwines your passions amidst the splendor of nature.
+Welcome to our idyllic destination perfectly suited for a unique blend of visitors. Our target audience includes discerning tourists who possess a deep appreciation for the tranquillity of rural settings and a genuine enthusiasm for eco-friendly living. If you're the kind of traveller who seeks solace in the midst of nature's beauty and values sustainable practices, you've found your haven here. Our region's charm lies in its harmonious coexistence with the environment, providing a nurturing space for those who resonate with eco-living. Moreover, our area has gained widespread recognition as a cyclist's paradise. With scenic routes that wind through picturesque landscapes, this locale has become a beloved hub for cyclists of all levels. Whether you're an eco-conscious explorer or a cycling enthusiast seeking adventure, our destination promises an unforgettable experience that seamlessly intertwines your passions amidst the splendour of nature.
 
 ## User Stories
 
@@ -65,7 +65,7 @@ The colour scheme I used is designed to represent nature, the teal and aqua crea
 
 
 ![Image of the font chosen for the site](https://i.ibb.co/yB7QX43/Typography.png)
-I chose to go with the Google font "Poppins". This, in my opinion, was a nice, clean and readable font which was chosen so as no to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
+I chose to go with the Google font "Poppins". This, in my opinion, was a nice, clean and readable font that was chosen so as not to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
 
 **Wireframes**
 
@@ -135,7 +135,7 @@ I have done my best to use aria labels for screen readers as well as backup font
  - I used this each day for version control and backing up my progress. I also used pages in Github to deploy my site early so as to keep on top of testing. 
 
 **Codewhere IDE**
- - I used a mix of Code anywhere and the VSCode app on my computer depending on where I was working from. With good use of GitHub I found it quite easy to switch between the two. 
+ - I used a mix of Code Anywhere and the VSCode app on my computer depending on where I was working from. With good use of GitHub, I found it quite easy to switch between the two. 
 
 **Python** 
 - Python was used when opening a port 8000 preview when coding in Codeanywhere.
