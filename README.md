@@ -42,26 +42,28 @@ Welcome to our idyllic destination perfectly suited for a unique blend of visito
 ## User Stories
 
 As a static website the user goals will be the same each time, those goals are as follows;
+
 **Accommodation**
 
 We would like for potential visitors to the eco-resort to be able to get a feel for the types of accommodation and services available. As an eco-glamping resort, we would like for people to know that what they will experience is not necessarily what one can expect in a normal resort. 
 
 **Communication**
 
-We would like for it to be as easy for a user to contact us as possible. We have made sure to include a very visible contact tab on the header which links to a very readable and accessible contact form that is responsive on Phones, Tablets Laptops and Desktop computers. 
+We would like for it to be as easy for a user to contact us as possible. We have made sure to include a  visible contact tab on the header which links to a very readable and accessible contact form that is responsive on Phones, Tablets, Laptops and Desktop computers. 
 
 **User Friendliness** 
+
 I have used appropriate media queries to ensure that the layout of each page represents how it was designed. I have made sure to add several breakpoints where the arrangement of columns is adjusted to suit each device as well as adding a dropdown menu to the smaller devices to save on cluttered space in the menu. 
 
 ## Design
 
 **Colour Scheme**
 
-The colour scheme I used is designed to represent nature, the teal and aqua create a calming background with the orange giving the website some warmth and comfort. This has been echoed in the gallery images
+The colour scheme I used is designed to represent nature, the teal and aqua create a calming background with the orange giving the website some warmth and comfort. This has been echoed in the gallery images.
 
 ![colour palette used](https://i.ibb.co/NY0X9G3/colours.jpg)
 
-**Typeography**
+**Typography**
 
 
 ![Image of the font chosen for the site](https://i.ibb.co/yB7QX43/Typography.png)
@@ -101,7 +103,7 @@ I have added a styled footer at the bottom with external opening links to Facebo
 
 **Landing page**
 
-On the landing page, it has specifically been divided into three sections. The opening Hero image is designed to set the tone of the relaxed nature of the resort and also the website. As you scroll down we have mixed information with pictures of the facilities in order to hopefully hold a reader's attention. The third section is there to make it as easy to find us as possible, with a large visually appealing and interactive Google Map and the footer that would take a user to any of our social media pages. 
+On the landing page, it has specifically been divided into three sections. The opening Hero image is designed to set the tone of the relaxed nature of the resort and also the website. As you scroll down we have mixed information with pictures of the facilities in order to hold a reader's attention. The third section is there to make it as easy to find us as possible, with a large visually appealing and interactive Google Map and the footer that would take a user to any of our social media pages. 
 
 ![Middke sectuib screenshott](https://i.ibb.co/QrZ8v6R/Screenshot-2023-08-23-at-13-42-25.png)
 ![enter image description here](https://i.ibb.co/WnJm5Vh/Screenshot-2023-08-23-at-13-42-40.png)
@@ -117,7 +119,7 @@ The Gallery page has been made to look clean and appealing. It gives a good feel
 
 **Contact page**
 
-The contact page has been kept quite simple, with a form that currently leads back to a formdump but would generally come back to the business in the future. The form has been tested on phones, tablets and Laptops and is responsive on all. 
+The contact page has been kept quite simple, with a form that currently leads back to a formdump but would come back to the business in the future. The form has been tested on phones, tablets and Laptops and is responsive on all. 
 
 ![screenshot of simple contact page.](https://i.ibb.co/yWf8zcv/Screenshot-2023-08-23-at-14-05-10.png)
 
@@ -134,27 +136,35 @@ I have done my best to use aria labels for screen readers as well as backup font
 **GitHub**
  - I used this each day for version control and backing up my progress. I also used pages in Github to deploy my site early so as to keep on top of testing. 
 
-**Codewhere IDE**
+**Codanywhere IDE**
  - I used a mix of Code Anywhere and the VSCode app on my computer depending on where I was working from. With good use of GitHub, I found it quite easy to switch between the two. 
 
 **Python** 
 - Python was used when opening a port 8000 preview when coding in Codeanywhere.
 
 **HTML5** 
+
 This is the basis for the structure of my website
 **CSS** 
+
  CSS was used for all of the style elements of the website.
 **Google Maps** 
+
 I embedded a Google map of the local area on my Landing page using an iFrame link from Google Maps. 
 **Font Awesome** 
+
 I used this for the icons on my website.	
 **Google fonts** 
+
  I used this to import the font "Poppins" which was used on the website. 
 **Favicon Generator**
+
  This was initially used to make a custom logo for the website but later changed to one of their stock camping images as it suited the look of the site better. 
 **TinyPNG** 
+
  I used a compression site in order to reduce the file sizes in my gallery section. Through doing this, I was able to increase the score in the performance section of the lighthouse report. 
 **Stackedit** 
+
 I used this site to markdown the content of the Readme document. 
 
 **Languages used**
