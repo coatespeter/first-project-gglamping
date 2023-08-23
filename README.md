@@ -60,7 +60,11 @@ The color Scheme I used is designed to to represent nature, the teal and aqua cr
 ![Image of the font chosen for the site](https://i.ibb.co/yB7QX43/Typography.png)
 I choose to go with the google font "Poppins". This, in my opinion was a nice, clean and readable font which was choosen so as no to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
 
-**Imagery**
+**Wireframes**
+
+![Wireframe on tablet](https://i.ibb.co/BTMnMjT/Untitled-Artwork-5.jpg)
+![enter image description here](https://i.ibb.co/8XTm7LD/Untitled-Artwork-4.jpg)
+![Laptop view ](https://i.ibb.co/zffty92/Untitled-Artwork-6.jpg)
 
 ## **Features**
 **Nav Bar**
