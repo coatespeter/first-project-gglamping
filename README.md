@@ -112,6 +112,7 @@ The Gallery page has been made to look clean and appealing. It gives a good feel
 
 ![larger screen gallery](https://i.ibb.co/12F8CCG/image.png)
 ![Gallerly on tablet size screen](https://i.ibb.co/4tzmkH2/Screenshot-2023-08-23-at-13-55-01.png)
+![phone gallery](https://i.ibb.co/PW7s1CW/Screenshot-2023-08-23-at-19-41-33.png)
 
 **Contact page**
 
@@ -135,7 +136,7 @@ I used this each day for version control and backing up my progress. I also used
 
 **Codeanywhere IDE**
 
-I used a mix of Code Anywhere and the VSCode app on my computer depending on where I was working from. With good use of GitHub I found it quite easy to switch between the two. 
+I used a mix of Code Anywhere and the VSCode app on my computer depending on where I was working from. With good use of GitHub, I found it quite easy to switch between the two. 
 
 **Python** 
 
@@ -210,7 +211,8 @@ The site was deployed early on GitHub pages.
 
 Upon using the HTML, I did encounter one problem with a duplicate class. I found the problem and fixed the issue. 
 
-![html validator passed](https://i.ibb.co/1zdK0dp/Screenshot-2023-08-23-at-19-06-12.png)
+![no error html](https://i.ibb.co/1RfwtW9/Screenshot-2023-08-23-at-19-38-19.png)
+
 
 **Lighthouse**
 
