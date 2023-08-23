@@ -1,4 +1,6 @@
-## CONTENTS
+**
+
+## CONTENTS*
 
 
 
@@ -88,3 +90,47 @@ The Gallery page has been made to look clean and appealing. It gives a good feel
 The contact page has been kept quite simple, with a form which currently leads back to a formdump but would generally come back to the business in future. The form has been tested on phones, tablets and Laptops and is responsive on all. 
 ![screenshot of simple contact page.](https://i.ibb.co/yWf8zcv/Screenshot-2023-08-23-at-14-05-10.png)
 **Future Implementations**
+For future versions of the site, I would like to implement a direct booking system which will allow potential guests easily book without waiting on any replies. I would also like to implement an activieies section in which people could pre-book various excursions/activities. 
+
+**Accessibility**
+I have dont my best to use aria labels for screen readers as well as backup fonts and alts for all images. On testing, I got a warning that it would be better to add in a title to my iframe to make things more accessible so I implemented that. 
+
+## Technologies used
+**GitHub** - I used this each day for version control and backing up my progress. I also used pages in Github to deploy my site early so as to keep on top of testing. 
+
+**Codewhere IDE** - I used a mix of Code anywhere and the VSCode app on my computer depending on where I was working from. With good use of github I found it quite easy to switch between the two. 
+
+**Python** - Python was used when opening a port 8000 preview when coding in Codeanywhere.
+
+**HTML5** - This is the basis for the structure of my website
+**CSS** - CSS was used for all of the style elements of the website.
+**Google Maps** - I embedded a google map of the local area on my Landing page using an iFrame link from Google Maps. 
+**Font Awesome** - I used this for the icons in my website.	
+**Google fonts** - I used this to import the font "Poppins" which was used on the website. 
+**Favicon Generator** - This was initially used to make a custom logo for the website but later changed to one of their stock camping images as it suited the look of the site better. 
+**TinyPNG** - I used a compression site in order to reduce the file sizes in my gallery section. Through doing this, I was able to increase the score in the performance section of the lighthouse report. 
+**Stackedit** - I used this site to markdown the content of the Readme document. 
+
+**Languages used**
+HTML5, CSS
+
+**Libraries and programms used**
+GitHub was used most for version control and backing up all aspects of the project. 
+The VSCode app was used for a lot of the coding. 
+
+**Deployment**
+The site was deployed early on github pages. 
+
+**Local Deployment**
+**How to Clone**
+#### How to Clone
+
+1.  Log into your account on github
+2.  Go to the repository of this project [first-project-gglamping](https://github.com/coatespeter/first-project-gglamping)
+3.  Click on the code button, and copy your preferred clone link.
+4.  Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5.  Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
+## Testing
+
+
+> Written with [StackEdit](https://stackedit.io/).
