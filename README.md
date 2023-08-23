@@ -1,6 +1,9 @@
-## CONTENTS*
+## Guaro Glamping
+This is a static website for a eco-friendly Glamping resort in the Spannish mountains. I has been designed to be simple, appealing to the eye and easy to navigate. It has been made responsive for various screen sizes for the best user experience. 
 
+![enter image description here](https://i.ibb.co/hHL1kYt/Screenshot-2023-08-22-at-17-49-31.png)
 
+## CONTENTS
 
  - User Experience
 	 - User Stories
@@ -140,6 +143,21 @@ The site was deployed early on github pages.
 4.  Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5.  Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
 ## Testing
+## Manual Testing
+**CSS Validator**
+
+![Screenshow of Css validator showing no errors](https://i.ibb.co/Hqddw0J/Screenshot-2023-08-23-at-14-43-48.png)
+
+**W3C Validator**
+Upon using the HTML, I did encounter one problem with a duplicate class. While this does not affect the page as it currently is, future versions will fix this error. I also had some green warnings which I will need to address.
+
+![Errors to be addressed](https://i.ibb.co/tCZSm7w/Screenshot-2023-08-23-at-15-41-03.png)
+![info about code from the validator](https://i.ibb.co/c8zcDkm/Screenshot-2023-08-23-at-15-39-41.png)
+
+**Lighthouse**
+I used the lighthouse extension for Google Chrome which gave me feed back as to the performance and speed of the website. I tested the site with various types of internet commection including in very remote locations. The scores i recorded were good based on a decent connection. The landing page however, had a score of 69 in performance which I would like to improve going forward in the next update. I was having a similar problem with the gallery page until compressed the files twice. 
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
