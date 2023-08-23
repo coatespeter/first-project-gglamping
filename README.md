@@ -96,7 +96,8 @@ On the landing page, it has specifically been divided into three sections. The o
 **Gallery Page**
 The Gallery page has been made to look clean and appealing. It gives a good feeling of the type of accomodations and generally the good vibes of the resort. It is responsive and goes from having 4 columns on a large screen down to having single images in a row on mobile divices. 
 
-![Gallery page on wider screens](https://i.ibb.co/ZHJhZTW/Screenshot-2023-08-23-at-13-52-31.png)
+![gallery on wide screens](https://i.ibb.co/ZHJhZTW/Screenshot-2023-08-23-at-13-52-31.png)
+
 ![Gallerly on tablet size screen](https://i.ibb.co/4tzmkH2/Screenshot-2023-08-23-at-13-55-01.png)
 ![Phone gallery](https://i.ibb.co/xCzrqy2/Screenshot-2023-08-23-at-13-54-52.png)
 
@@ -161,7 +162,20 @@ Upon using the HTML, I did encounter one problem with a duplicate class. While t
 **Lighthouse**
 I used the lighthouse extension for Google Chrome which gave me feed back as to the performance and speed of the website. I tested the site with various types of internet commection including in very remote locations. The scores i recorded were good based on a decent connection. The landing page however, had a score of 69 in performance which I would like to improve going forward in the next update. I was having a similar problem with the gallery page until compressed the files twice. 
 
+**Device testing**
+The website was testing on the following devices
+iPhone 11.
+iPhone 10.
+Samsung s22.
+iPad
+iPad Air.
+MacBook Air.
+32' widescreen monitor. 
+Surface Pro
 
-
+**Browsers**
+Google Chrome
+Safari
+Opera
 
 > Written with [StackEdit](https://stackedit.io/).
