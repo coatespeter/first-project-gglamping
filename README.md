@@ -41,17 +41,17 @@ Welcome to our idyllic destination perfectly suited for a unique blend of visito
 
 ## User Stories
 
-As a static website the user goals will be the same from each time, those goals are as follows;
-**Accomodation**
+As a static website the user goals will be the same each time, those goals are as follows;
+**Accommodation**
 
-We would like for potential visitors to the eco-resort to be able to get a feel for the types of accomodation and services available. As an eco-glamping resort, we would like for people to know that what they will experience is not necessarily what one can expect in a normal resort. 
+We would like for potential visitors to the eco-resort to be able to get a feel for the types of accommodation and services available. As an eco-glamping resort, we would like for people to know that what they will experience is not necessarily what one can expect in a normal resort. 
 
 **Communication**
 
-We would like for it to be as easy for a user to contact us as possible. We has made sure to include a very visible contact tab on the header which links to a very readable and accessible contact form that is responsive on Phones, Tablets Laptops and Desktop computers. 
+We would like for it to be as easy for a user to contact us as possible. We have made sure to include a very visible contact tab on the header which links to a very readable and accessible contact form that is responsive on Phones, Tablets Laptops and Desktop computers. 
 
-**User Friendlyness** 
-I have used appropriate media queries to ensure that the layout of each page represents how it was designed. I have made sure to add several breakpoints where the arrangement of columns and is adjusted to suit each device as well as adding a dropdown menu to the smaller devices to save on cluttered space in the menu. 
+**User Friendliness** 
+I have used appropriate media queries to ensure that the layout of each page represents how it was designed. I have made sure to add several breakpoints where the arrangement of columns is adjusted to suit each device as well as adding a dropdown menu to the smaller devices to save on cluttered space in the menu. 
 
 ## Design
 
@@ -65,7 +65,7 @@ The colour scheme I used is designed to represent nature, the teal and aqua crea
 
 
 ![Image of the font chosen for the site](https://i.ibb.co/yB7QX43/Typography.png)
-I chose to go with the Google font "Poppins". This, in my opinion was a nice, clean and readable font which was choosen so as no to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
+I chose to go with the Google font "Poppins". This, in my opinion, was a nice, clean and readable font which was chosen so as no to have it as the main point that the eye goes to, the hero image was intended to be the main attraction.
 
 **Wireframes**
 
