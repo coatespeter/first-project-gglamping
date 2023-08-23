@@ -111,7 +111,6 @@ On the landing page, it has specifically been divided into three sections. The o
 
 The Gallery page has been made to look clean and appealing. It gives a good feeling of the type of accomodations and generally the good vibes of the resort. It is responsive and goes from having 4 columns on a large screen down to having single images in a row on mobile divices. 
 
-![gallery on a larger screen](https://i.ibb.co/zFcrBD8/Screenshot-2023-08-23-at-16-59-56.png)
 
 ![Gallerly on tablet size screen](https://i.ibb.co/4tzmkH2/Screenshot-2023-08-23-at-13-55-01.png)
 ![Phone gallery](https://i.ibb.co/xCzrqy2/Screenshot-2023-08-23-at-13-54-52.png)
@@ -198,27 +197,45 @@ Upon using the HTML, I did encounter one problem with a duplicate class. While t
 ![Errors to be addressed](https://i.ibb.co/tCZSm7w/Screenshot-2023-08-23-at-15-41-03.png)
 ![info about code from the validator](https://i.ibb.co/c8zcDkm/Screenshot-2023-08-23-at-15-39-41.png)
 
-**Lighthouse:**
+**Lighthouse**
 
 I used the lighthouse extension for Google Chrome which gave me feed back as to the performance and speed of the website. I tested the site with various types of internet commection including in very remote locations. The scores i recorded were good based on a decent connection. The landing page however, had a score of 69 in performance which I would like to improve going forward in the next update. I was having a similar problem with the gallery page until compressed the files twice. 
 
-**Device testing:**
+![landing page scores](https://i.ibb.co/dfPN72k/Screenshot-2023-08-22-at-16-40-26.png)
 
-The website was testing on the following devices
+
+![gallery page scores](https://i.ibb.co/QHjpHb8/Screenshot-2023-08-22-at-17-47-56.png)
+
+![contact page scores](https://i.ibb.co/1bFMNz8/Screenshot-2023-08-22-at-17-49-00.png)
+
+**Wave Testing**
+
+I used the wave extension on google chrome to test the site. I was aboe to see some errors and change them in order to make the site more accessible. 
+
+![initial wave test](https://i.ibb.co/w75sHLx/Screenshot-2023-08-21-at-14-41-31.png)
+![updated test](https://i.ibb.co/k83TMv5/Screenshot-2023-08-23-at-17-16-31.png)
+
+
+**Device testing**
+
+The website was testing on the following devices:
+
 iPhone 11.
 iPhone 10.
 Samsung s22.
-iPad
+iPad.
 iPad Air.
 MacBook Air.
 32' widescreen monitor. 
 Surface Pro
 
-**Browsers:**
+
+**Browsers**
 
 Google Chrome.
 Safari.
 Opera.
+
 
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
@@ -226,7 +243,7 @@ Opera.
 |  |  |  |  |  |
 | Guaro Glamping title | When clicked the user will be redirected to the home page. | Clicked Logo and title | Redirected to the home page. | Pass |
 | Home Page Link | When clicked the user will be redirected to the home page.| Clicked link | Redirected to the home page. | Pass |
-| Gallery Link | When clicked the user will be redirected to the accomodation page. | Clicked link | Redirected to the accomodation page. | Pass |
+| Gallery Link | When clicked the user will be redirected to the gallery page. | Clicked link | Redirected to the gallery page. | Pass |
 | Contact Link | When clicked the user will be redirected to the Contact page. | Clicked link | Redirected to the contact page | Pass |
 | --- | --- | --- | --- | --- |
 | `Footer` |
@@ -244,3 +261,4 @@ Opera.
 
 
 > Written with [StackEdit](https://stackedit.io/).
+*tabindex=0*
